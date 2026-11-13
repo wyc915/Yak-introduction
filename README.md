@@ -2,7 +2,7 @@
 
 靜態個人介紹網站：派對有氧、iPARTY、K-pop MV、兒童街舞。
 
-🔗 https://wyc915.github.io/Yak-introduction/
+🔗 https://wyc915.github.io/Yak-Introduction/
 
 - 純 HTML / CSS / JavaScript，無需建置
 - 深色 / 淺色模式、中 / EN 切換
